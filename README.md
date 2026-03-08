@@ -48,13 +48,14 @@ I am a **Full Stack Product Engineer** with 4+ years of experience. I don't just
 
 ---
 
-### 📈 Stats & Activity
+### 📊 Proficiency & Ecosystem
 <p align="center">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vajresh&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="vajresh" />
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=vajresh&show_icons=true&locale=en&theme=react&hide_border=true" alt="vajresh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vajresh&theme=react&hide_border=true" width="48%" />
 </p>
-<br clear="both" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vajresh&theme=react&hide_border=true" alt="vajresh" />
-</p>
+**Core Capabilities:**
+- 🏗️ **Frontend:** Next.js (App Router), React, Tailwind CSS, State Management (Zustand/Redux).
+- ⚙️ **Backend:** Node.js, Express, GraphQL, Apollo, Microservices Architecture.
+- 💾 **Database/Cloud:** MongoDB, Firebase, Supabase, PostgreSQL.
+- 🚀 **Operations:** Docker, CI/CD Pipelines, Linux Server Management (VPS).
+
